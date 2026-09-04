@@ -1,62 +1,104 @@
 <div align="center">
+
 Hi 👋, I'm Abishek A
+
 Computer Science Student | Cloud Computing & Generative AI Enthusiast | Software Developer | Research-Oriented Builder
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Cloud+Computing;Generative+AI;AI-Assisted+Development;Software+Development;Cloud+Research;Building+Real-World+Projects" alt="Typing SVG" />
+
 <p>
   <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing"/>
   <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/Software_Development-181717?style=for-the-badge&logo=github&logoColor=white" alt="Software Development"/>
   <img src="https://img.shields.io/badge/Research-0A66C2?style=for-the-badge&logo=academia&logoColor=white" alt="Research"/>
 </p>
+
 <p>
   <a href="https://github.com/abi5459777-rgb">
-    <img src="https://img.shields.io/badge/GitHub-abi5459777--rgb-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-abi5459777--rgb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
 </div>
----
+
 👨‍💻 About Me
+
 🎓 Computer Science student with a strong interest in emerging technologies
+
 💻 Building practical software and web-based applications
+
 ☁️ Developing hands-on knowledge across cloud platforms
+
 🤖 Exploring Generative AI and multi-model AI workflows
+
 🔬 Working on cloud computing research and technical paper development
+
 🧠 Exploring how different AI systems can support research, development and problem solving
+
 🚀 Learning through projects, experimentation and hands-on implementation
----
+
 🔬 Research
+
 ☁️ CloudEval-64 — Cloud Service Provider Evaluation
+
 I'm working on a research-oriented framework for systematic and multidimensional comparison of cloud service providers.
+
 The framework organizes:
+
 64 Evaluation Parameters → 15 Functional Categories → 5 Higher-Level Domains
+
 The research focuses on systematic comparison of cloud providers across technical, operational, security, governance, AI and business dimensions.
+
 Research Focus
+
 Multidimensional cloud provider evaluation
+
 Standardized evaluation parameters
+
 Cloud infrastructure and platform capabilities
+
 Security and governance
+
 Operations and management
+
 Business and enterprise capabilities
+
 AI and ML cloud services
+
 Cloud benchmarking
+
 Technology comparison
+
 Cloud adoption and decision support
+
 Data-driven evaluation
+
 Comparative analysis
+
 Research Areas
+
 Literature Review
+
 Research Methodology
+
 Research Gap Identification
+
 Dataset Development
+
 Cloud Provider Comparison
+
 Research Documentation
+
 Technical Writing
+
 Statistical Analysis
+
 Research Paper Development
+
 Conference Paper Preparation
+
 Research Paper Journey
-I'm developing my research work through a structured process:
-```text
+
 Literature Search
       ↓
 Literature Review
@@ -78,71 +120,130 @@ Analysis & Visualization
 Research Paper Writing
       ↓
 Review & Refinement
-```
+
 Research Direction
+
 My research focuses on developing structured and reproducible approaches for evaluating cloud platforms and understanding how different providers can be compared across multiple technical and strategic dimensions.
----
+
 ☁️ Cloud Computing
+
 I'm building hands-on cloud experience through practical experiments, structured learning and research.
+
 AWS
+
 Worked on an integrated AWS environment involving:
-`EC2 → IAM → S3 → KMS → CloudWatch → SNS`
+
+EC2 → IAM → S3 → KMS → CloudWatch → SNS
+
 with additional:
-`CloudTrail + AWS Budgets`
+
+CloudTrail + AWS Budgets
+
 Practical Areas
+
 EC2 deployment
+
 Web server configuration
+
 IAM role-based access
+
 Amazon S3 storage
+
 Secure S3 access
+
 AWS KMS encryption
+
 CloudWatch monitoring
+
 CloudWatch alarms
+
 SNS notifications
+
 CloudTrail auditing
+
 AWS cost monitoring
+
 Budget alerts
+
 The practical work helped me understand how multiple AWS services interact as one integrated cloud environment.
----
+
 Google Cloud
+
 Currently developing my Google Cloud knowledge with a focus on:
+
 Google Cloud fundamentals
+
 Cloud Engineering
+
 Associate Cloud Engineer (ACE)
+
 Cloud architecture
+
 Cloud services
+
 Hands-on Google Cloud learning
+
 Certification-oriented preparation
+
 Multi-cloud concepts
----
+
 🤖 Generative AI
+
 Generative AI is one of the major areas I'm currently exploring.
+
 I'm particularly interested in understanding how different AI systems can be combined and compared for research, learning, software development and problem solving.
+
 AI Systems I'm Exploring
-`ChatGPT` `Claude` `Gemini` `Perplexity`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+</p>
+
 Areas of Exploration
+
 Advanced Prompt Engineering
+
 Generative AI applications
+
 Multi-model AI workflows
+
 AI-assisted development
+
 Model comparison
+
 AI-based research workflows
+
 Research assistance
+
 Technical analysis
+
 Technical writing
+
 AI-assisted coding
+
 AI-powered development workflows
+
 Google AI Studio
+
 Gemini
+
 Claude
+
 ChatGPT
+
 Perplexity
+
 Rather than depending on a single AI model, I'm exploring the strengths of different AI systems and using them according to the task.
----
+
 🧠 AI-Assisted Development
+
 One of my current interests is combining AI tools with the normal software development and research process.
-My workflow increasingly follows:
-```text
+
+My Workflow
+
 Problem
    ↓
 Research
@@ -158,208 +259,387 @@ Test
 Refine
    ↓
 Document
-```
+
 I use AI systems to assist with:
+
 Problem exploration
+
 Research
+
 Idea generation
+
 Code development
+
 Debugging
+
 Technical analysis
+
 Documentation
+
 Comparing alternative approaches
+
 Project planning
+
 Learning new technologies
+
 The goal is not simply to generate solutions with AI, but to understand, validate, improve and implement them effectively.
----
+
 🚀 Ongoing Projects
+
 🔭 ARGUS
+
 ARGUS is an ongoing project focused on Generative AI, multi-model workflows and AI-assisted development.
+
 Focus Areas
+
 🤖 Generative AI experimentation
+
 🔄 Multi-model AI workflows
+
 🧠 AI-assisted development
+
 🔍 Research and technical analysis
+
 ✍️ Prompt engineering
+
 📊 Comparing AI model outputs
+
 ⚙️ AI-powered problem solving
+
 🔬 AI-supported research workflows
+
 AI Ecosystem
-`ChatGPT` `Claude` `Gemini` `Perplexity`
+
+ChatGPT Claude Gemini Perplexity
+
 ARGUS represents my exploration of how different AI systems can work together as part of a broader research and development workflow.
----
+
 🎓 PHD-PORTAL
+
 A web-based PhD research portal that I'm actively developing.
+
 Focus Areas
+
 PhD research management
+
 Research workflow support
+
 Academic information management
+
 Dashboard-based interaction
+
 Web-based research activities
+
 Modern application development
+
 Technologies
-`React.js` `JavaScript` `Vite` `Tailwind CSS`
-🔗 View Repository
----
+
+React.js JavaScript Vite Tailwind CSS
+
+🔗 Repository: PHD-PORTAL
+
 👁️ User Attention Heatmap
+
 An ongoing project focused on analysing user attention and interaction patterns.
+
 Focus Areas
+
 User attention analysis
+
 Interaction analysis
+
 Attention visualization
+
 Data-driven analysis
+
 Experimental software development
-🔗 View Repository
----
+
+🔗 Repository: User-attention-heatmap
+
 ⚙️ TwinCore
+
 Embedded Digital Twin Prototype for Predictive Machine Health Monitoring
+
 TwinCore is a solo embedded systems project exploring a lightweight digital twin that runs locally on an ESP32 for predictive machine health monitoring.
+
 The project focuses on understanding machine behaviour through multiple physical signals rather than relying only on fixed thresholds.
+
 Operational Signals
+
 ⚡ Current
+
 🌡️ Temperature
+
 📳 Vibration
+
 Problem Being Addressed
+
 Traditional monitoring systems can miss gradual degradation when individual sensor values remain below their alarm limits.
+
 TwinCore explores a condition-oriented approach that tracks combined behavioural changes and relative deviations to identify early signs of machine degradation.
+
 Target Applications
+
 Small industrial motors
+
 Pumps and fans
+
 Laboratory equipment
+
 Workshop equipment
+
 Industry 4.0 testbeds
+
 Technology Direction
-`ESP32` `Embedded Systems` `Digital Twin` `Sensors` `Predictive Monitoring`
----
+
+ESP32 Embedded Systems Digital Twin Sensors Predictive Monitoring
+
 📚 Learning Journey
+
 ☁️ Cloud Computing
+
 Currently learning and strengthening:
+
 Google Cloud
+
 Associate Cloud Engineer
+
 Cloud architecture
+
 AWS services
+
 Multi-cloud concepts
+
 Cloud security
+
 Cloud monitoring
+
 Cloud service evaluation
+
 Cloud benchmarking
+
 Cloud infrastructure concepts
----
+
 🤖 Generative AI
+
 Currently exploring:
+
 Advanced Prompt Engineering
+
 Generative AI applications
+
 Multi-model AI workflows
+
 AI-assisted development
+
 Model comparison
+
 AI-based research workflows
+
 Google AI Studio
+
 Gemini
+
 Claude
+
 ChatGPT
+
 Perplexity
+
 AI-assisted coding
+
 AI evaluation
----
+
 💻 Software Development
+
 Currently improving:
+
 React.js
+
 Full-Stack Development
+
 JavaScript
+
 Application Architecture
+
 System Design
+
 Modern development workflows
+
 Git and GitHub
+
 AI-assisted software development
----
+
 🔬 Research
+
 Currently working on:
+
 Research methodology
+
 Literature analysis
+
 Research paper development
+
 Technical writing
+
 Cloud benchmarking
+
 Data-driven evaluation
+
 Comparative analysis
+
 Research documentation
+
 Research dataset development
+
 Technical paper presentation
----
+
 🎓 Cloud & Gen AI Learning Path
+
 My current learning path combines structured courses, certification preparation and practical experimentation.
+
 Google Cloud / ACE
+
 Focused on building a strong foundation in:
-Cloud fundamentals
-Compute
-Storage
-Networking
-IAM
-Security
-Monitoring
-Cloud architecture
-Practical Google Cloud services
+
+Cloud Fundamentals Compute Storage Networking IAM Security Monitoring Cloud Architecture
+
+Practical Learning
+
+Google Cloud learning paths
+
+Cloud engineering concepts
+
+Hands-on labs
+
 Associate Cloud Engineer preparation
+
+Understanding cloud services and architecture
+
 Generative AI Learning
+
 Focused on developing practical knowledge in:
+
+Generative AI Prompt Engineering AI-Assisted Coding AI Applications Model Comparison Multi-Model Workflows AI Evaluation
+
+Practical Learning
+
 Generative AI fundamentals
+
 Prompt engineering
-AI-assisted coding
+
 AI application development
-Model capabilities
-Multi-model workflows
-AI evaluation
+
+AI-assisted software development
+
+Comparing different AI systems
+
 Research-oriented AI usage
+
 Practical experimentation with modern AI tools
+
 The focus is on learning by combining course material, hands-on experimentation and project development.
----
+
 🛠️ Technologies & Tools
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,vite,tailwind,aws,gcp,git,github,vscode,arduino" alt="Technologies and tools" />
-</div>
 
 Programming
-`Python` `JavaScript` `Java` `C++`
+
+Python JavaScript Java C++
+
 Web Development
-`React.js` `Vite` `Tailwind CSS` `Node.js`
+
+React.js Vite Tailwind CSS Node.js
+
 Cloud
-`AWS` `Google Cloud`
-`EC2` `S3` `IAM` `KMS` `CloudWatch`
+
+AWS Google Cloud
+
+EC2 S3 IAM KMS CloudWatch
+
 Generative AI
-`ChatGPT` `Claude` `Gemini` `Perplexity`
-`Google AI Studio` `Prompt Engineering`
+
+ChatGPT Claude Gemini Perplexity
+
+Google AI Studio Prompt Engineering
+
 Embedded Systems
-`ESP32` `Sensors` `Digital Twin`
+
+ESP32 Sensors Digital Twin
+
 Research & Data
-`Research Methodology` `Literature Analysis` `Data Analysis` `Comparative Evaluation`
+
+Research Methodology Literature Analysis Data Analysis Comparative Evaluation
+
 Development Tools
-`Git` `GitHub` `VS Code`
----
+
+Git GitHub VS Code
+
 📌 Areas of Interest
-☁️ Cloud Computing
-🤖 Generative AI
-💻 Software Development
-🔬 Cloud Research
-🧠 AI-Assisted Development
-📊 Technology Evaluation
-🌐 Cloud Architecture
-🧪 Experimental Systems
-⚙️ Embedded Systems
-📚 Technical Research
-🔄 Multi-Model AI Workflows
-📝 Research Paper Development
----
+
+<p align="center">
+☁️ Cloud Computing &nbsp;&nbsp; 🤖 Generative AI &nbsp;&nbsp; 💻 Software Development
+</p>
+
+<p align="center">
+🔬 Cloud Research &nbsp;&nbsp; 🧠 AI-Assisted Development &nbsp;&nbsp; 📊 Technology Evaluation
+</p>
+
+<p align="center">
+🌐 Cloud Architecture &nbsp;&nbsp; 🧪 Experimental Systems &nbsp;&nbsp; ⚙️ Embedded Systems
+</p>
+
+<p align="center">
+📚 Technical Research &nbsp;&nbsp; 🔄 Multi-Model AI Workflows &nbsp;&nbsp; 📝 Research Paper Development
+</p>
+
 🚀 Featured Work
-Project	Area	Status
-🔭 ARGUS	Generative AI / Multi-Model AI	Ongoing
-🎓 PHD-PORTAL	Web Development / Research	Ongoing
-👁️ User Attention Heatmap	User Interaction Analysis	Ongoing
-⚙️ TwinCore	Embedded Digital Twin / Predictive Monitoring	Ongoing
-☁️ CloudEval-64	Cloud Computing Research	Ongoing
-☁️ AWS Integrated Environment	Cloud / Security / Monitoring	Practical Work
----
+
+Project
+
+Area
+
+Status
+
+🔭 ARGUS
+
+Generative AI / Multi-Model AI
+
+🟢 Ongoing
+
+🎓 PHD-PORTAL
+
+Web Development / Research
+
+🟢 Ongoing
+
+👁️ User Attention Heatmap
+
+User Interaction Analysis
+
+🟢 Ongoing
+
+⚙️ TwinCore
+
+Embedded Digital Twin / Predictive Monitoring
+
+🟢 Ongoing
+
+☁️ CloudEval-64
+
+Cloud Computing Research
+
+🟢 Ongoing
+
+☁️ AWS Integrated Environment
+
+Cloud / Security / Monitoring
+
+✅ Practical Work
+
 🎯 What I'm Working Toward
+
 I'm working toward combining:
-```text
+
 Software Development
         +
 Cloud Computing
@@ -367,12 +647,13 @@ Cloud Computing
 Generative AI
         +
 Research
-```
+
 My goal is to build useful and practical systems while developing deeper skills in software engineering, cloud technologies, Generative AI and research-oriented problem solving.
----
+
 🌱 My Learning Philosophy
+
 I believe in learning by building.
-```text
+
 Learn
   ↓
 Experiment
@@ -386,11 +667,11 @@ Understand
 Improve
   ↓
 Build Better
-```
+
 I believe practical implementation, experimentation and continuous improvement are important parts of becoming a strong developer and researcher.
----
+
 📈 My Current Journey
-```text
+
 Computer Science
        ↓
 Software Development
@@ -406,35 +687,51 @@ Research
 Real-World Projects
        ↓
 Continuous Learning
-```
----
+
+<div align="center">
+
 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abi5459777-rgb&show_icons=true&theme=tokyonight&hide_border=true" alt="Abishek's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi5459777-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
----
-🔥 GitHub Streak
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=abi5459777-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
----
-📈 GitHub Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abi5459777-rgb&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
----
-🌐 Connect With Me
-<div align="center">
-<a href="https://github.com/abi5459777-rgb">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abi5459777-rgb&show_icons=true&theme=tokyonight&hide_border=true" alt="Abishek's GitHub Stats"/>
+
 <br/>
-<a href="https://github.com/abi5459777-rgb">github.com/abi5459777-rgb</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi5459777-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
 </div>
----
+
 <div align="center">
+
+🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=abi5459777-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abi5459777-rgb&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+<div align="center">
+
+🌐 Connect With Me
+
+<a href="https://github.com/abi5459777-rgb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
 ⭐ Thanks for visiting my profile!
+
 I'm continuously learning, researching, experimenting, building and improving.
+
 Build → Learn → Experiment → Improve → Repeat 🚀
+
 </div>

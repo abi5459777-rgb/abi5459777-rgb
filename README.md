@@ -7,35 +7,33 @@ Computer Science Student | Cloud Computing & Generative AI Enthusiast | Software
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Cloud+Computing;Generative+AI;AI-Assisted+Development;Software+Development;Cloud+Research;Building+Real-World+Projects" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing"/>
-  <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Software_Development-181717?style=for-the-badge&logo=github&logoColor=white" alt="Software Development"/>
-  <img src="https://img.shields.io/badge/Research-0A66C2?style=for-the-badge&logo=academia&logoColor=white" alt="Research"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing" />
+<img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Software_Development-181717?style=for-the-badge&logo=github&logoColor=white" alt="Software Development" />
+<img src="https://img.shields.io/badge/Research-0A66C2?style=for-the-badge&logo=academia&logoColor=white" alt="Research" />
 </p>
 
-<p>
-  <a href="https://github.com/abi5459777-rgb">
-    <img src="https://img.shields.io/badge/GitHub-abi5459777--rgb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://github.com/abi5459777-rgb">
+<img src="https://img.shields.io/badge/GitHub-abi5459777--rgb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
 👨‍💻 About Me
 
-🎓 Computer Science student with a strong interest in emerging technologies
+🎓 Computer Science Student with a strong interest in emerging technologies
 
-💻 Building practical software and web-based applications
+💻 Software Development — building practical software and web-based applications
 
-☁️ Developing hands-on knowledge across cloud platforms
+☁️ Cloud Computing — developing hands-on knowledge across cloud platforms
 
-🤖 Exploring Generative AI and multi-model AI workflows
+🤖 Generative AI — exploring AI systems and multi-model workflows
 
-🔬 Working on cloud computing research and technical paper development
+🔬 Research — working on cloud computing research and technical paper development
 
-🧠 Exploring how different AI systems can support research, development and problem solving
+🧠 AI & Problem Solving — exploring how different AI systems can support research and development
 
-🚀 Learning through projects, experimentation and hands-on implementation
+🚀 Learning by Building — learning through projects, experimentation and hands-on implementation
 
 🔬 Research
 
@@ -43,7 +41,7 @@ Computer Science Student | Cloud Computing & Generative AI Enthusiast | Software
 
 I'm working on a research-oriented framework for systematic and multidimensional comparison of cloud service providers.
 
-The framework organizes:
+Framework Structure
 
 64 Evaluation Parameters → 15 Functional Categories → 5 Higher-Level Domains
 
@@ -100,25 +98,25 @@ Conference Paper Preparation
 Research Paper Journey
 
 Literature Search
-      ↓
+       ↓
 Literature Review
-      ↓
+       ↓
 Research Gap Identification
-      ↓
+       ↓
 Problem Definition
-      ↓
+       ↓
 Framework Design
-      ↓
+       ↓
 Dataset Development
-      ↓
+       ↓
 Parameter Verification
-      ↓
+       ↓
 Comparative Evaluation
-      ↓
+       ↓
 Analysis & Visualization
-      ↓
+       ↓
 Research Paper Writing
-      ↓
+       ↓
 Review & Refinement
 
 Research Direction
@@ -196,10 +194,10 @@ I'm particularly interested in understanding how different AI systems can be com
 AI Systems I'm Exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
 </p>
 
 Areas of Exploration
@@ -260,7 +258,7 @@ Refine
    ↓
 Document
 
-I use AI systems to assist with:
+I Use AI Systems To Assist With
 
 Problem exploration
 
@@ -354,7 +352,7 @@ Data-driven analysis
 
 Experimental software development
 
-🔗 Repository: User-attention-heatmap
+🔗 Repository: User Attention Heatmap
 
 ⚙️ TwinCore
 
@@ -398,7 +396,7 @@ ESP32 Embedded Systems Digital Twin Sensors Predictive Monitoring
 
 ☁️ Cloud Computing
 
-Currently learning and strengthening:
+Currently Learning and Strengthening
 
 Google Cloud
 
@@ -422,7 +420,7 @@ Cloud infrastructure concepts
 
 🤖 Generative AI
 
-Currently exploring:
+Currently Exploring
 
 Advanced Prompt Engineering
 
@@ -452,7 +450,7 @@ AI evaluation
 
 💻 Software Development
 
-Currently improving:
+Currently Improving
 
 React.js
 
@@ -472,7 +470,7 @@ AI-assisted software development
 
 🔬 Research
 
-Currently working on:
+Currently Working On
 
 Research methodology
 
@@ -496,11 +494,11 @@ Technical paper presentation
 
 🎓 Cloud & Gen AI Learning Path
 
-My current learning path combines structured courses, certification preparation and practical experimentation.
+My current learning path combines structured courses, certification preparation, hands-on experimentation and practical project development.
 
-Google Cloud / ACE
+☁️ Google Cloud / ACE
 
-Focused on building a strong foundation in:
+Focused on Building a Strong Foundation In
 
 Cloud Fundamentals Compute Storage Networking IAM Security Monitoring Cloud Architecture
 
@@ -516,9 +514,9 @@ Associate Cloud Engineer preparation
 
 Understanding cloud services and architecture
 
-Generative AI Learning
+🤖 Generative AI Learning
 
-Focused on developing practical knowledge in:
+Focused on Developing Practical Knowledge In
 
 Generative AI Prompt Engineering AI-Assisted Coding AI Applications Model Comparison Multi-Model Workflows AI Evaluation
 
@@ -542,54 +540,62 @@ The focus is on learning by combining course material, hands-on experimentation 
 
 🛠️ Technologies & Tools
 
-Programming
+💻 Programming
 
 Python JavaScript Java C++
 
-Web Development
+🌐 Web Development
 
 React.js Vite Tailwind CSS Node.js
 
-Cloud
+☁️ Cloud
 
 AWS Google Cloud
 
 EC2 S3 IAM KMS CloudWatch
 
-Generative AI
+🤖 Generative AI
 
 ChatGPT Claude Gemini Perplexity
 
 Google AI Studio Prompt Engineering
 
-Embedded Systems
+⚙️ Embedded Systems
 
 ESP32 Sensors Digital Twin
 
-Research & Data
+🔬 Research & Data
 
 Research Methodology Literature Analysis Data Analysis Comparative Evaluation
 
-Development Tools
+🧰 Development Tools
 
 Git GitHub VS Code
 
 📌 Areas of Interest
 
 <p align="center">
-☁️ Cloud Computing &nbsp;&nbsp; 🤖 Generative AI &nbsp;&nbsp; 💻 Software Development
+
+☁️ Cloud Computing    🤖 Generative AI    💻 Software Development
+
 </p>
 
 <p align="center">
-🔬 Cloud Research &nbsp;&nbsp; 🧠 AI-Assisted Development &nbsp;&nbsp; 📊 Technology Evaluation
+
+🔬 Cloud Research    🧠 AI-Assisted Development    📊 Technology Evaluation
+
 </p>
 
 <p align="center">
-🌐 Cloud Architecture &nbsp;&nbsp; 🧪 Experimental Systems &nbsp;&nbsp; ⚙️ Embedded Systems
+
+🌐 Cloud Architecture    🧪 Experimental Systems    ⚙️ Embedded Systems
+
 </p>
 
 <p align="center">
-📚 Technical Research &nbsp;&nbsp; 🔄 Multi-Model AI Workflows &nbsp;&nbsp; 📝 Research Paper Development
+
+📚 Technical Research    🔄 Multi-Model AI Workflows    📝 Research Paper Development
+
 </p>
 
 🚀 Featured Work
@@ -672,6 +678,8 @@ I believe practical implementation, experimentation and continuous improvement a
 
 📈 My Current Journey
 
+<div align="center">
+
 Computer Science
        ↓
 Software Development
@@ -688,40 +696,42 @@ Real-World Projects
        ↓
 Continuous Learning
 
-<div align="center">
+</div>
 
 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abi5459777-rgb&show_icons=true&theme=tokyonight&hide_border=true" alt="Abishek's GitHub Stats"/>
+<div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=abi5459777-rgb&show_icons=true&theme=tokyonight&hide_border=true" alt="Abishek's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi5459777-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi5459777-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
-
-<div align="center">
 
 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=abi5459777-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abi5459777-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
-<div align="center">
 
 📈 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abi5459777-rgb&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abi5459777-rgb&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
-<div align="center">
-
 🌐 Connect With Me
 
+<div align="center">
+
 <a href="https://github.com/abi5459777-rgb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>

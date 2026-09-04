@@ -78,7 +78,6 @@ The research focuses on systematic comparison of cloud providers across <strong>
 
 <h3><strong>Research Paper Journey</strong></h3>
 
-```text
 Literature Search
        ↓
 Literature Review
@@ -100,25 +99,22 @@ Analysis & Visualization
 Research Paper Writing
        ↓
 Review & Refinement
-````
+
 <h3><strong>Research Direction</strong></h3>
 My research focuses on developing <strong>structured and reproducible approaches</strong> for evaluating cloud platforms and understanding how different providers can be compared across multiple technical and strategic dimensions.
----
+
 <h1>☁️ Cloud Computing</h1>
 I'm building hands-on cloud experience through practical experiments, structured learning and research.
 <h2>☁️ AWS</h2>
 Worked on an integrated AWS environment involving:
-```
-```
-```
+
+
 EC2 → IAM → S3 → KMS → CloudWatch → SNS
-```
+
 with additional:
-```
-```
-```
+
 CloudTrail + AWS Budgets
-```
+
 <h3><strong>Practical Areas</strong></h3>
 <strong>EC2 deployment</strong>
 <strong>Web server configuration</strong>
@@ -143,7 +139,7 @@ Currently developing my Google Cloud knowledge with a focus on:
 <strong>Hands-on Google Cloud learning</strong>
 <strong>Certification-oriented preparation</strong>
 <strong>Multi-cloud concepts</strong>
----
+
 <h1>🤖 Generative AI</h1>
 Generative AI is one of the major areas I'm currently exploring.
 I'm particularly interested in understanding how different AI systems can be combined and compared for <strong>research, learning, software development and problem solving</strong>.
@@ -165,13 +161,11 @@ I'm particularly interested in understanding how different AI systems can be com
 <strong>ChatGPT</strong>
 <strong>Perplexity</strong>
 Rather than depending on a single AI model, I'm exploring the strengths of different AI systems and using them according to the task.
----
+
 <h1>🧠 AI-Assisted Development</h1>
 One of my current interests is combining AI tools with the normal software development and research process.
 <h2>🔄 My Workflow</h2>
-```
-```
-```
+
 Problem
    ↓
 Research
@@ -187,7 +181,7 @@ Test
 Refine
    ↓
 Document
-```
+
 <h3><strong>I Use AI Systems To Assist With</strong></h3>
 <strong>Problem exploration</strong>
 <strong>Research</strong>
@@ -200,7 +194,7 @@ Document
 <strong>Project planning</strong>
 <strong>Learning new technologies</strong>
 The goal is not simply to generate solutions with AI, but to <strong>understand, validate, improve and implement them effectively</strong>.
----
+
 <h1>🚀 Ongoing Projects</h1> <h2>🔭 ARGUS</h2>
 ARGUS is an ongoing project focused on <strong>Generative AI, multi-model workflows and AI-assisted development</strong>.
 <h3><strong>Focus Areas</strong></h3>
@@ -215,7 +209,7 @@ ARGUS is an ongoing project focused on <strong>Generative AI, multi-model workfl
 <h3><strong>AI Ecosystem</strong></h3>
 `ChatGPT` `Claude` `Gemini` `Perplexity`
 ARGUS represents my exploration of how different AI systems can work together as part of a broader research and development workflow.
----
+
 <h2>🎓 PHD-PORTAL</h2>
 A web-based PhD research portal that I'm actively developing.
 <h3><strong>Focus Areas</strong></h3>
@@ -228,7 +222,7 @@ A web-based PhD research portal that I'm actively developing.
 <h3><strong>Technologies</strong></h3>
 `React.js` `JavaScript` `Vite` `Tailwind CSS`
 🔗 <strong>Repository:</strong> PHD-PORTAL
----
+
 <h2>👁️ User Attention Heatmap</h2>
 An ongoing project focused on analysing user attention and interaction patterns.
 <h3><strong>Focus Areas</strong></h3>
@@ -257,7 +251,7 @@ TwinCore explores a condition-oriented approach that tracks combined behavioural
 <strong>Industry 4.0 testbeds</strong>
 <h3><strong>Technology Direction</strong></h3>
 `ESP32` `Embedded Systems` `Digital Twin` `Sensors` `Predictive Monitoring`
----
+
 <h1>📚 Learning Journey</h1> <h2>☁️ Cloud Computing</h2> <h3><strong>Currently Learning and Strengthening</strong></h3>
 <strong>Google Cloud</strong>
 <strong>Associate Cloud Engineer</strong>
@@ -269,7 +263,7 @@ TwinCore explores a condition-oriented approach that tracks combined behavioural
 <strong>Cloud service evaluation</strong>
 <strong>Cloud benchmarking</strong>
 <strong>Cloud infrastructure concepts</strong>
----
+
 <h2>🤖 Generative AI</h2> <h3><strong>Currently Exploring</strong></h3>
 <strong>Advanced Prompt Engineering</strong>
 <strong>Generative AI applications</strong>
@@ -284,7 +278,7 @@ TwinCore explores a condition-oriented approach that tracks combined behavioural
 <strong>Perplexity</strong>
 <strong>AI-assisted coding</strong>
 <strong>AI evaluation</strong>
----
+
 <h2>💻 Software Development</h2> <h3><strong>Currently Improving</strong></h3>
 <strong>React.js</strong>
 <strong>Full-Stack Development</strong>
@@ -294,7 +288,7 @@ TwinCore explores a condition-oriented approach that tracks combined behavioural
 <strong>Modern development workflows</strong>
 <strong>Git and GitHub</strong>
 <strong>AI-assisted software development</strong>
----
+
 <h2>🔬 Research</h2> <h3><strong>Currently Working On</strong></h3>
 <strong>Research methodology</strong>
 <strong>Literature analysis</strong>
@@ -306,7 +300,7 @@ TwinCore explores a condition-oriented approach that tracks combined behavioural
 <strong>Research documentation</strong>
 <strong>Research dataset development</strong>
 <strong>Technical paper presentation</strong>
----
+
 <h1>🎓 Cloud & Gen AI Learning Path</h1>
 My current learning path combines <strong>structured courses, certification preparation and practical experimentation</strong>.
 <h2>☁️ Google Cloud / ACE</h2> <h3><strong>Focused on Building a Strong Foundation In</strong></h3>
@@ -317,7 +311,7 @@ My current learning path combines <strong>structured courses, certification prep
 <strong>Hands-on labs</strong>
 <strong>Associate Cloud Engineer preparation</strong>
 <strong>Understanding cloud services and architecture</strong>
----
+
 <h2>🤖 Generative AI Learning</h2> <h3><strong>Focused on Developing Practical Knowledge In</strong></h3>
 `Generative AI` `Prompt Engineering` `AI-Assisted Coding` `AI Applications` `Model Comparison` `Multi-Model Workflows` `AI Evaluation`
 <h3><strong>Practical Learning</strong></h3>
@@ -329,7 +323,7 @@ My current learning path combines <strong>structured courses, certification prep
 <strong>Research-oriented AI usage</strong>
 <strong>Practical experimentation with modern AI tools</strong>
 The focus is on learning by combining <strong>course material, hands-on experimentation and project development</strong>.
----
+
 <h1>🛠️ Technologies & Tools</h1> <h2>💻 Programming</h2>
 `Python` `JavaScript` `Java` `C++`
 <h2>🌐 Web Development</h2>
@@ -346,7 +340,7 @@ The focus is on learning by combining <strong>course material, hands-on experime
 `Research Methodology` `Literature Analysis` `Data Analysis` `Comparative Evaluation`
 <h2>🧰 Development Tools</h2>
 `Git` `GitHub` `VS Code`
----
+
 <h1>📌 Areas of Interest</h1> <div align="center">
 <strong>☁️ Cloud Computing</strong>   
 <strong>🤖 Generative AI</strong>   
@@ -364,7 +358,7 @@ The focus is on learning by combining <strong>course material, hands-on experime
 <strong>🔄 Multi-Model AI Workflows</strong>   
 <strong>📝 Research Paper Development</strong>
 </div>
----
+
 <h1>🚀 Featured Work</h1>
 <strong>Project</strong><strong>Area</strong><strong>Status</strong>		
 🔭 <strong>ARGUS</strong>	Generative AI / Multi-Model AI	🟢 <strong>Ongoing</strong>
@@ -373,13 +367,12 @@ The focus is on learning by combining <strong>course material, hands-on experime
 ⚙️ <strong>TwinCore</strong>	Embedded Digital Twin / Predictive Monitoring	🟢 <strong>Ongoing</strong>
 ☁️ <strong>CloudEval-64</strong>	Cloud Computing Research	🟢 <strong>Ongoing</strong>
 ☁️ <strong>AWS Integrated Environment</strong>	Cloud / Security / Monitoring	✅ <strong>Practical Work</strong>
----
+
 <h1>🎯 What I'm Working Toward</h1>
 I'm working toward combining:
 <div align="center">
-```
-```
-```
+
+
 Software Development
         +
 Cloud Computing
@@ -387,16 +380,14 @@ Cloud Computing
 Generative AI
         +
 Research
-```
+
 </div>
 My goal is to build <strong>useful and practical systems</strong> while developing deeper skills in <strong>software engineering, cloud technologies, Generative AI and research-oriented problem solving</strong>.
----
+
 <h1>🌱 My Learning Philosophy</h1>
 I believe in learning by building.
 <div align="center">
-```
-```
-```
+       
 Learn
   ↓
 Experiment
@@ -410,14 +401,14 @@ Understand
 Improve
   ↓
 Build Better
-```
+
 </div>
 I believe practical implementation, experimentation and continuous improvement are important parts of becoming a strong developer and researcher.
----
+
 <h1>📈 My Current Journey</h1> <div align="center">
-```
-```
-```
+
+
+
 Computer Science
        ↓
 Software Development
@@ -433,20 +424,20 @@ Research
 Real-World Projects
        ↓
 Continuous Learning
-```
+
 </div>
----
+
 <h1>📊 GitHub Stats</h1> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abi5459777-rgb&show_icons=true&theme=tokyonight&hide_border=true" alt="Abishek's GitHub Stats">
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi5459777-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"> </div>
----
+
 <h1>🔥 GitHub Streak</h1> <div align="center"> <img src="https://streak-stats.demolab.com?user=abi5459777-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </div>
----
+
 <h1>📈 GitHub Activity</h1> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abi5459777-rgb&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"> </div>
----
+
 <h1>🌐 Connect With Me</h1> <div align="center"> <a href="https://github.com/abi5459777-rgb"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
----
+
 <div align="center"> <h2>⭐ Thanks for visiting my profile!</h2>
 I'm continuously learning, researching, experimenting, building and improving.
-<h3>Build → Learn → Experiment → Improve → Repeat 🚀</h3> </div> ```
-This is the one to use now. The major sections are real `<h1>` headings, so they will render at the large size you were pointing to in the reference, while the `<h2>` and `<h3>` sections are clearly separated and bold.
+<h3>Build → Learn → Experiment → Improve → Repeat 🚀</h3> </div> 
+
